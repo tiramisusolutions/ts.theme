@@ -1,0 +1,14 @@
+<configure
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="ts.theme">
+
+  <genericsetup:registerProfile
+      name="default"
+      title="TS Plone Theme"
+      directory="profiles/default"
+      description='Extension profile for the "TS" Plone theme.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+</configure>

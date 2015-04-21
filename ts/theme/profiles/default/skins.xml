@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<object name="portal_skins">
+ <object name="ts_icons" meta_type="Filesystem Directory View"
+    directory="ts.theme:skins/ts_icons"/>
+  <skin-path name="*">
+    <layer name="ts_icons" insert-after="custom"/>
+  </skin-path>
+</object>

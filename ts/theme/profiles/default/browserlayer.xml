@@ -1,0 +1,4 @@
+<layers>
+    <layer name="TS Plone"
+           interface="ts.theme.browser.interfaces.IThemeSpecific" />
+</layers>
