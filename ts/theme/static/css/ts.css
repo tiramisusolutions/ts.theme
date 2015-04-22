@@ -21,7 +21,7 @@ h2, h3, h4, h5, h6 {color: #575757;}
 .wrapper { width:auto; margin: 0 auto; max-width: 1280px;}
 #main {background:#FFFFFF; font-size: 1.3em; padding: 1em 0;}
 
-#nav {background: #0083be;  text-align: left; color: #FFFFFF;font-family: "Roboto", Arial, Helvetica, sans-serif; 
+#nav {background: #414141;  text-align: left; color: #FFFFFF;font-family: "Roboto", Arial, Helvetica, sans-serif; 
     font-size: 100%;
     font-weight: 300;}
 #nav a {color: #FFFFFF;}
@@ -245,7 +245,7 @@ div.position-1\:4 {
 #nav
 {
     font-size: 140%;
-    background-color: #A5C682;
+    background-color: #414141;
     font-weight: 500;
 }
 
@@ -557,7 +557,7 @@ dl.portlet li:last-child
 
 #doormat-wrapper
 {
-    background-color: #A5C682;
+    background-color: #414141;
     font-size: 110%;
     line-height: 2em;
 }
