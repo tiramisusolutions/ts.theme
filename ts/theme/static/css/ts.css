@@ -151,7 +151,7 @@ div.overlay-iframe, div.overlay-ajax {left:11%!Important; width:75%;}
       width: 95% !important;
     }
     
-    #nav:hover li:hover {background: #ff9900;}
+    #nav:hover li:hover {background: #333;}
     #nav:hover li a:hover,
     #nav:hover li.selected a {background: transparent;}
     
