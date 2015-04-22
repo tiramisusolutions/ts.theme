@@ -9,7 +9,7 @@
 
 
   <stylesheet
-    id="++theme++ts.theme/css/paragon.css"
+    id="++theme++ts.theme/css/ts.css"
     expression="request/HTTP_X_THEME_ENABLED | nothing"
     media=""
     />

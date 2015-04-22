@@ -13,7 +13,7 @@ class TestCase(PloneSandboxLayer):
     def setUpZope(self, app, configurationContext):
         # Load ZCML
         import ts.theme
-        self.loadZCML(package=paragon.theme)
+        self.loadZCML(package=ts.theme)
 
         # Install product and call its initialize() function
         z2.installProduct(app, PROJECTNAME)
