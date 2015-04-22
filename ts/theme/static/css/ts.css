@@ -259,7 +259,7 @@ div.position-1\:4 {
     font-size: 110%;
     margin-left: 1.9em;
     margin-right: 1.5em;
-    border-bottom: 2px dashed #0083be;
+    /* border-bottom: 2px dashed #414141; */
     padding-top: 1.5em;
     padding-bottom: 0.8em;
 }
