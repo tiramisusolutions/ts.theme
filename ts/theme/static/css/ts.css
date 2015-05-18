@@ -199,7 +199,7 @@ img, img.image-left, img.image-right, .captioned img {
     font-weight: 500;
     font-family: "Roboto", Arial,Helvetica,sans-serif;
     position: absolute; right: 1em; bottom: 25px;
-    color: #0083be;
+    color: #414141;
 }
 #logo
 {
@@ -212,7 +212,7 @@ img, img.image-left, img.image-right, .captioned img {
 }
 
 #logo a {display:block; width:100%;}
-#logo a:hover,a:focus {text-decoration: none;color: #0083be;}
+#logo a:hover,a:focus {text-decoration: none;color: #414141;}
 @media all and (max-width: 940px) {
     #payoff {position: relative;}
 }
@@ -328,7 +328,7 @@ div.LSBox input#searchGadget
 
 .portlet
 {
-    border-bottom: 2px dashed #0083be;
+    border-bottom: 2px dashed #414141;
     padding-bottom: 1em;
 }
 
@@ -461,7 +461,7 @@ dl.portlet li:last-child
     border-radius:0;
     color: black;
     padding: 0.25em 0em 0.1em;
-    border-bottom: 0.1em solid #0083be;
+    border-bottom: 0.1em solid #414141;
     line-height: 1.6em;
 }
 #category a.link-category:hover {
@@ -474,7 +474,7 @@ dl.portlet li:last-child
 }
 #content h2 > a:link , #content h2 > a:visited{
     font-weight:500;
-    color: #0083be;
+    color: #414141;
     text-decoration:none;
 }
 
@@ -483,7 +483,7 @@ dl.portlet li:last-child
     border-bottom: none;
 }
 #content a:hover, dl.portlet a:hover {
-    color: #0083be!important;
+    color: #414141!important;
 }
 #content h2 > a:hover{color: #414141;}
 #content div.newsImageContainer p.discreet {
@@ -499,11 +499,11 @@ dl.portlet li:last-child
 
 #content .tileItem {
     padding-top: 1em;
-    border-top: 2px dashed #0083be;
+    border-top: 2px dashed #414141;
 }
 
 #content div.row {
-    border-bottom: 2px dashed #0083be;
+    border-bottom: 2px dashed #414141;
 }
 #content .tile
 {
@@ -595,7 +595,7 @@ dl.portlet li:last-child
 .biggallery .galleria-info-description {
     font: italic 12px/1.4 arial,sans-serif;
     margin: 0;
-    color: #0083be;
+    color: #414141;
 }
 
 .biggallery .galleria-inner {
