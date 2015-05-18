@@ -485,7 +485,7 @@ dl.portlet li:last-child
 #content a:hover, dl.portlet a:hover {
     color: #0083be!important;
 }
-#content h2 > a:hover{color: #0083be;}
+#content h2 > a:hover{color: #414141;}
 #content div.newsImageContainer p.discreet {
     background-color: rgba(40, 40, 40, 0.7);
     color: White;
